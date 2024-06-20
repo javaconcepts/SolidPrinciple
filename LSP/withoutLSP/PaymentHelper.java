@@ -1,4 +1,4 @@
-package LSP;
+package LSP.withoutLSP;
 
 import java.util.List;
 import java.util.ArrayList;

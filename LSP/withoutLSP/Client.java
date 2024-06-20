@@ -1,4 +1,4 @@
-package LSP;
+package LSP.withoutLSP;
 
 public class Client {
 

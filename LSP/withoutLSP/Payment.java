@@ -1,4 +1,4 @@
-package LSP;
+package LSP.withoutLSP;
 
 interface Payment {
     void previousPaymentInfo();
